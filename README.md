@@ -1,4 +1,6 @@
-# buildspace 
-### Welcome 👋
-#### GTFOL
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+# GNASH-ML
+
+### generate lyrics for your [CyberBrokers](https://www.cyberbrokers.com/)
+
+#### GTFOL & built with [buildspace](https://buildspace.so/)
+
