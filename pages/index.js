@@ -34,7 +34,7 @@ const Home = () => {
   return (
     <div className="root">
       <Head>
-        <title>Lyrics Writer | CyberBrokers | buildspace | GPT-3 | ML</title>
+        <title>GNASH ML</title>
       </Head>
       <div className="container">
         <div className="header">
@@ -42,7 +42,7 @@ const Home = () => {
             <h1>GNASH ML</h1>
           </div>
           <div className="header-subtitle">
-            <h2>generate lyrics for your CyberBroker</h2>
+            <h2>generate lyrics for your CyberBrokers</h2>
           </div>
         </div>
         {/* new bits about a prompt container */}
