@@ -57,7 +57,7 @@ const generateAction = async (req, res) => {
     */}
     // end
     
-    res.status(200).jsons({ output: basePromptOutput });
+    res.status(200).json({ output: basePromptOutput });
 };
 
 export default generateAction;
