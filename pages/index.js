@@ -88,7 +88,7 @@ const Home = () => {
         >
           <div className="badge">
             <Image src={ojasLogo} alt="ojas logo" />
-            <p>❤️ contribute</p>
+            <p>❤️ code</p>
           </div>
         </a>
       </div>
