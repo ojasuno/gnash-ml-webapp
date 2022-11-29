@@ -5,7 +5,7 @@ export default function Document() {
     <Html>
       <Head>
         <meta property="og:title" content="GNASH ML" key="title"/>
-        <meta property="og:description" content="generate lyrics for your CyberBroker" key="description"/>
+        <meta property="og:description" content="generate lyrics for your CyberBrokers" key="description"/>
         <meta
           property="og:image"
           content="../assets/gnash-ml.jpg"
